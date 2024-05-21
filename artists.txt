@@ -1,0 +1,7 @@
+#Some examples to use
+One Direction, Pop, 110123, United Kingdom
+Taylor Swift, Country, 123456, USA
+BTS, Pop, 987654, South Korea
+Adele, Pop, 654321, United Kingdom
+Kendrick Lamar, Rap, 432123, USA
+
